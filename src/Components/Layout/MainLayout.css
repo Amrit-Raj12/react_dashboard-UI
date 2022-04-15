@@ -1,0 +1,42 @@
+.header {
+  background: #fff;
+}
+.menuBox {
+  float: right;
+}
+
+.menuItem {
+  position: relative;
+  right: 80px;
+  padding: 10px;
+}
+
+.searchBox {
+  position: relative;
+  left: 150px;
+  border: none;
+  outline: none;
+  font-size: 28px;
+  width: 350px;
+  top: 5px;
+}
+
+.logoBox {
+  top: 0px;
+  left: 0px;
+  width: 216px;
+  height: 60px;
+}
+
+.logo {
+  position: absolute;
+  left: 40px;
+  top: 18px;
+  vertical-align: middle;
+  border-style: none;
+  max-width: 100%;
+  height: auto;
+}
+
+.site-layout-background {
+}

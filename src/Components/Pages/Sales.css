@@ -1,0 +1,45 @@
+.tabsBox {
+  display: flex;
+}
+
+.ant-tabs-tab:hover {
+  background: #5285fc;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.ant-tabs-tab-active {
+  background: #5285fc;
+  border-radius: 8px;
+}
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #fff !important;
+  font-weight: 500;
+}
+
+.ant-tabs-ink-bar {
+  background: transparent;
+  pointer-events: none;
+}
+
+.ant-tabs-tab {
+  margin: 0;
+  padding: 5px;
+  margin-right: -10px;
+}
+
+.tabRightComponents {
+  position: fixed;
+  right: 80px;
+}
+
+.searchOrderBox {
+  position: relative;
+  left: 55px;
+  width: 320px;
+}
+
+.tagBox {
+  display: flex;
+}
